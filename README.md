@@ -16,3 +16,6 @@ Try [Smallapi](https://smallapi.io/) for free.*
 
 ![image](https://github.com/smallapi-io/smallapi/assets/15267552/6d2c57fe-c1c7-427f-906f-024acb5b2878)
 
+
+[![Made in EU](https://cdn.componentator.com/eu-small.png)](https://european-union.europa.eu/)
+
